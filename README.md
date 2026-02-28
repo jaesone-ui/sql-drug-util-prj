@@ -1,2 +1,11 @@
-# sql-drug-util-prj
-sql project to practice using ctes and window functions
+# SQL Drug Utilization Project
+
+## Project Overview
+A SQL project that tracks state drug spending per and Medicaid reimbursement per state to practice using CTEs and window functions
+
+## Tech Stack
+Database: PostgreSQL
+
+## Research Questions
+1. What drugs have a total reimbursement amount greater than 0.5% of total anuual Medicaid drug spending?
+2. What are the top 5 most prescribed drugs per state?

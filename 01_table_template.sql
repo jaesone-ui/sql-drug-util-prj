@@ -1,4 +1,4 @@
-CREATE TABLE drug_util_2025 (
+CREATE TABLE drug_util_combined (
     util_type CHAR(4),
     us_state CHAR(2),
     ndc CHAR(11),
